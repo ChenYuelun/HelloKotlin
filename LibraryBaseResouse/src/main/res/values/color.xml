@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="transparent2">#50000000</color>
+    <color name="transparent3">#10000000</color>
+    <color name="transparent6">#66000000</color>
+    <color name="transparent50percentwhite">#77ffffff</color>
+
+    <!--底部导航栏颜色-->
+    <color name="navigationbar_normal_color">#000000</color>
+    <color name="navigationbar_press_color">#5494ff</color>
+
+    <!--彩球蓝-->
+    <color name="caiqiuBlue">#5494ff</color>
+
+
+    <!--百分之70的-->
+    <color name="transparent70percent">#b2000000</color>
+    <color name="transparent99">#99000000</color>
+    <color name="transparentb3white">#b3ffffff</color>
+    <color name="tab_bottom_color">#F7F7F8</color>
+    <color name="tab_bottom_line_color">#C8C8C8</color>
+    <color name="tab_item_press_color">#5494ff</color>
+    <!--<color name="tab_item_press_color">#5cc3ff</color>全替换为5494ff-->
+    <color name="text222">#222222</color>
+    <color name="text333">#333333</color>
+    <color name="text666">#666666</color>
+    <color name="text999">#999999</color>
+    <color name="program_btn">#5499fe</color>
+    <color name="dc">#dcdcdc</color>
+    <color name="d5">#d5d5d5</color>
+    <color name="ddd">#dddddd</color>
+    <color name="f5">#f5f5f5</color>
+    <color name="e6">#E6E6E6</color>
+    <color name="e5">#E5E5E5</color>
+    <color name="de">#dedede</color>
+    <color name="ef">#EFEFEF</color>
+    <color name="red_ball_ring">#d81128</color>
+    <color name="forecast_red">#cc0000</color>
+    <color name="every_out_top">#252525</color>
+    <color name="data_analyse_group">#5494ff</color>
+    <!--<color name="data_analyse_group">#5cc3ff</color>-->
+    <color name="data_analyse_top">#F0EFF5</color>
+    <color name="all_tab">#37A6FD</color>
+    <color name="withdraw_detail_status_font">#5494ff</color>
+    <!--<color name="withdraw_detail_status_font">#5cc3ff</color>-->
+    <color name="top_btn_press_color">#2F2F2F</color>
+    <color name="top_btn_normal_color">#f5f5f5</color>
+    <color name="data_analyse_bg">#EEEEEE</color>
+    <color name="newprogram_text">#ccEEEEEE</color>
+    <color name="rank_color">#5494ff</color>
+    <!--<color name="rank_color">#3cc3ff</color>-->
+    <color name="program_clearall_color">#5499fe</color>
+    <color name="result_red">#dd1122</color>
+    <color name="eee">#EEEEEE</color>
+    <color name="bbb">#BBBBBB</color>
+    <color name="fff">#ffffff</color>
+    <color name="ccc">#cccccc</color>
+    <color name="matchGoneRed">#CE4026</color>
+    <color name="lan_f">#AAAAAA</color>
+    <color name="moxing">#F5B400</color>
+    <color name="bianhua">#92B93D</color>
+    <color name="confidence">#77AA22</color>
+    <color name="blue2">#5AA9DD</color>
+    <color name="blue3">#5494ff</color>
+    <!--<color name="blue3">#5cc3ff</color>-->
+    <color name="liveTextSelect">#00A8F9</color>
+    <color name="liveTextNotSelect">#333333</color>
+    <color name="liveBtnSelect">#F7F7F7</color>
+    <color name="liveBtnNotSelect">#EEEEEE</color>
+    <color name="today">#FF9400</color>
+    <color name="zhongRed">#CE4026</color>
+    <color name="weiZhongGray">#BBBBBB</color>
+    <color name="jianbian1">#7FBF00</color>
+    <color name="jianbian2">#ffe000</color>
+    <color name="jianbian3">#ff8623</color>
+    <color name="jianbian4">#ff423d</color>
+    <color name="programForecast">#7fbf00</color>
+    <color name="betRed">#D80000</color>
+    <color name="social_gendan">#ff4747</color>
+    <color name="c34040">#c34040</color>
+    <color name="flowsSub">#55BB55</color>
+    <!--<color name="forecastFu">#E3E3E3</color>-->
+    <color name="jifen">#F0FAFF</color>
+    <color name="charSheng">#E6643E</color>
+    <color name="charPing">#9DBB88</color>
+    <color name="charFu">#AAD0D2</color>
+    <color name="jifenpanhang">#79B385</color>
+    <color name="everybg">#efefef</color>
+    <color name="unRq">#cccccc</color>
+    <color name="rq_positive">#FF7200</color>
+    <color name="rq_negative">#33bb66</color>
+    <color name="live_awayalignment">#ff9b00</color>
+    <color name="live_hostalignment">#4cbfcf</color>
+    <color name="footballoddsdown">#39993e</color>
+    <color name="color_5c8aca">#5c8aca</color>
+    <color name="im_social_dig_name_bg">#DDDDDD</color>
+    <color name="im_font_color_text_hint">#abb1b6</color>
+    <color name="im_line_color">#dcdcdc</color>
+    <color name="name_selector_color">#cccccc</color>
+    <color name="touming">#00000000</color>
+    <color name="bg_no_photo">#EEEEEE</color>
+    <color name="social_timeline_background">#ffffff</color>
+    <color name="social_textbackground">#F3F3F3</color>
+    <color name="social_textbackgroundpress">#cccccc</color>
+    <color name="dc2323">#dc2323</color>
+    <color name="e33a38">#e33a38</color>
+    <color name="myWhite">#ffffff</color>
+    <color name="green3ac823">#3ac823</color>
+    <color name="rede00000">#e00000</color>
+    <color name="d9">#D9D9D9</color>
+    <color name="guidebtn">#489cfc</color>
+    <color name="et_recharge">#fb4747</color>
+    <color name="btn_recharge_has_money">#5494ff</color>
+    <!--<color name="btn_recharge_has_money">#5cc3ff</color>-->
+    <color name="dialog_background">#99000000</color>
+    <color name="stationred">#ff4747</color>
+    <color name="blue809bf6">#809bf6</color>
+    <color name="newBetRed">#ff4747</color>
+    <color name="allOddsSelect">#fffce5</color>
+    <color name="yellow_tuijianzhishu">#FFB000</color>
+    <color name="update_violet">#54a0ff</color>
+    <color name="social_bask">#fffdf3</color>
+    <color name="f3">#f3f3f3</color>
+    <color name="ea">#eaeaea</color>
+    <color name="creatbet">#3399ff</color>
+    <color name="home_dot_focused">#7f7f7f</color>
+    <color name="dadada">#dadada</color>
+    <color name="programbottomloading">#75adfe</color>
+    <color name="d4">#d4d4d4</color>
+    <color name="flash_blue">#e4eeff</color>
+    <color name="progress_text">#20437e</color>
+
+    <color name="f8">#f8f8f8</color>
+    <!--客队字体颜色-->
+    <color name="text_visiting_team">#FF876B</color>
+
+    <!--足球预测底层页 平 颜色-->
+    <color name="bg_flat">#77D792</color>
+    <!--足球预测底层页 胜 颜色-->
+    <color name="bg_win">#ff876b</color>
+    <!--足球预测底层页 负 颜色-->
+    <color name="bg_lose">#BBBBBB</color>
+
+    <!--足球底层页RadioButton颜色-->
+    <color name="text_rb_uncheck">#999999</color>
+    <color name="text_rb_check">#333333</color>
+    <!--足球底层页近期战绩 客队颜色-->
+    <color name="text_away_team">#999999</color>
+    <color name="bg_999">#999999</color>
+    <color name="F1">#F1F1F1</color>
+
+
+    <color name="text_host_team_feature">#5494ff</color>
+
+</resources>
